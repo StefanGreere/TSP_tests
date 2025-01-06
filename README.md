@@ -5,7 +5,7 @@
 În cadrul proiectului, am ales să generăm și să testăm **cinci** tipuri de grafuri pentru problema TSP. Fiecare tip de graf prezintă caracteristici și dificultăți diferite, care ajută la analizarea și compararea performanței dintre:
 
 - **Held-Karp** – algoritm exact bazat pe programare dinamică (oferă soluția optimă, dar are complexitate exponențială),
-- **Algoritm Euristic** (ex. multifragment, nearest neighbor, etc.) – oferă soluții aproximative rapid, dar poate fi păcălit de anumite structuri de cost.
+- **Algoritm Euristic** (ex. multifragment) – oferă soluții aproximative rapid, dar poate fi păcălit de anumite structuri de cost.
 
 ---
 
